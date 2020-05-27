@@ -1,5 +1,5 @@
 # html-css-js:
 
-* ## [project social network bootstrap](https://alexeyaleks.github.io/course-html-and-css/social-network-bootstrap/registration.html)
+* ## [project social network bootstrap](https://alexeyaleks.github.io/html-css-js/social-network-bootstrap/profile.html)
 * ## ...
 * ## ...
