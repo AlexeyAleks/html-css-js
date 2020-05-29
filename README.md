@@ -1,9 +1,7 @@
 # html-css-js
 
-## branches
+## branches:
 
-* ### gh-pages:
-
-	* #### [project social network bootstrap](https://alexeyaleks.github.io/html-css-js/social-network-bootstrap/profile.html)
-	* #### ...
-	* #### ...
+* ### [gh-pages](https://github.com/AlexeyAleks/html-css-js/tree/gh-pages)
+* ### ...
+* ### ...
